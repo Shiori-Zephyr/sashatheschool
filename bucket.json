@@ -6,9 +6,9 @@
     "InternalName": "UwuChat",
     "AssemblyVersion": "1.0.0.0",
     "RepoUrl": "https://github.com/Shiori-Zephyr/Uwu-Chat",
-    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/latest/UwuChat.zip",
-    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/latest/UwuChat.zip",
-    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/latest/UwuChat.zip",
+    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v1.0.0.0/UwuChat.zip",
+    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v1.0.0.0/UwuChat.zip",
+    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v1.0.0.0/UwuChat.zip",
     "DownloadCount": 0,
     "ApplicableVersion": "any"
   }
