@@ -10,7 +10,7 @@
     "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v1.0.0.0/UwuChat.zip",
     "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v1.0.0.0/UwuChat.zip",
     "DownloadCount": 0,
-    "ApplicableVersion": "any"
+    "ApplicableVersion": "any",
     "IconUrl": "https://raw.githubusercontent.com/Shiori-Zephyr/Uwu-Chat/main/images/icon.png"
   }
 ]
