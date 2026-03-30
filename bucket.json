@@ -33,10 +33,10 @@
   },
   {
     "Author": "nopjmp, Jessidhia, PGGB",
-    "Name": "DeviceChangeFix",
+    "Name": "DeviceChangeFix-Wine",
     "Description": "An FF14-Plugin that stops controller input from freezing on device changes",
     "Punchline": "",
-    "InternalName": "DeviceChangeFix",
+    "InternalName": "DeviceChangeFix-Wine",
     "AssemblyVersion": "2.0.8.2",
     "Changelog": "Detour to denounce",
     "RepoUrl": "https://github.com/Jessidhia/DeviceChangeFix",
