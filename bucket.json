@@ -37,7 +37,7 @@
     "Description": "An FF14-Plugin that stops controller input from freezing on device changes",
     "Punchline": "",
     "InternalName": "DeviceChangeFix-",
-    "AssemblyVersion": "2.0.8.3",
+    "AssemblyVersion": "2.0.8.2",
     "Changelog": "wine",
     "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/DeviceChangeFix-.zip",
     "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/DeviceChangeFix-.zip",
