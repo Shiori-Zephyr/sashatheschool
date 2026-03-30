@@ -30,5 +30,20 @@
     "DownloadCount": 0,
     "ApplicableVersion": "any",
     "Tags": ["other", "chat"]
+  },
+  {
+    "Author": "nopjmp, Jessidhia, PGGB",
+    "Name": "DeviceChangeFix",
+    "Description": "An FF14-Plugin that stops controller input from freezing on device changes",
+    "Punchline": "",
+    "InternalName": "DeviceChangeFix",
+    "AssemblyVersion": "2.0.8.2",
+    "Changelog": "Detour to denounce",
+    "RepoUrl": "https://github.com/Jessidhia/DeviceChangeFix",
+    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/DeviceChangeFix.zip",
+    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/DeviceChangeFix.zip",
+    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/DeviceChangeFix.zip",
+    "DownloadCount": 0,
+    "ApplicableVersion": "any"
   }
 ]
