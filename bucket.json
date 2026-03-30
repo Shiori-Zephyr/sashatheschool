@@ -13,5 +13,22 @@
     "DownloadCount": 0,
     "ApplicableVersion": "any",
     "IconUrl": "https://raw.githubusercontent.com/Shiori-Zephyr/Uwu-Chat/main/images/icon.png"
+  },
+  {
+    "Author": "Shiori-Zephyr",
+    "Name": "YanderePartner",
+    "Description": "A yandere partner that watches your every action and comments on them via echo messages.",
+    "Punchline": "They're always watching. Always.",
+    "InternalName": "YanderePartner",
+    "AssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/Shiori-Zephyr/Yandere-Partner",
+    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/Yandere-Partner/releases/download/v.0.1.0.0/YanderePartner.zip",
+    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/Yandere-Partner/releases/download/v.0.1.0.0/YanderePartner.zip",
+    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/Yandere-Partner/releases/download/v.0.1.0.0/YanderePartner.zip",
+    "DownloadCount": 0,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "IconUrl": "",
+    "Tags": ["other", "chat", "fun"]
   }
 ]
