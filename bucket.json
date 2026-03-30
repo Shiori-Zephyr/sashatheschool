@@ -3,16 +3,17 @@
     "Author": "Shiori-Zephyr",
     "Name": "UwuChat",
     "Description": "Uwuifies your chat messages.",
+    "Punchline": "Evewything is bettew with uwu~",
     "InternalName": "UwuChat",
     "AssemblyVersion": "2.0.0.0",
     "Changelog": "UwuChat 2.0\n- Added advanced uwuification mode with baby talk, vowel elongation, and keysmash options, each with adjustable intensity sliders.\n- Added 11 new actions and a new text substitution rule.\n- Fixed few bugs and edge cases.\n- Few colors adjusted.",
     "RepoUrl": "https://github.com/Shiori-Zephyr/Uwu-Chat",
-    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v2.0.0.0/UwuChat.zip",
-    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v2.0.0.0/UwuChat.zip",
-    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v2.0.0.0/UwuChat.zip",
+    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/UwuChat.zip",
+    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/UwuChat.zip",
+    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/UwuChat.zip",
     "DownloadCount": 0,
     "ApplicableVersion": "any",
-    "IconUrl": "https://raw.githubusercontent.com/Shiori-Zephyr/Uwu-Chat/main/images/icon.png"
+    "Tags": ["other", "chat"]
   },
   {
     "Author": "Shiori-Zephyr",
@@ -21,13 +22,13 @@
     "Punchline": "They're always watching. Always.",
     "InternalName": "YanderePartner",
     "AssemblyVersion": "0.1.0.0",
+    "Changelog": "",
     "RepoUrl": "https://github.com/Shiori-Zephyr/Yandere-Partner",
-    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/Yandere-Partner/releases/download/v0.1.0.0/YanderePartner.zip",
-    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/Yandere-Partner/releases/download/v0.1.0.0/YanderePartner.zip",
-    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/Yandere-Partner/releases/download/v0.1.0.0/YanderePartner.zip",
+    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/YanderePartner.zip",
+    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/YanderePartner.zip",
+    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/YanderePartner.zip",
     "DownloadCount": 0,
     "ApplicableVersion": "any",
-    "IconUrl": "",
-    "Tags": ["other", "chat", "fun"]
+    "Tags": ["other", "chat"]
   }
 ]
