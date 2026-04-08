@@ -6,7 +6,6 @@
     "InternalName": "UwuChat",
     "AssemblyVersion": "2.0.0.0",
     "Changelog": "UwuChat 2.0\n- Added advanced uwuification mode with baby talk, vowel elongation, and keysmash options, each with adjustable intensity sliders.\n- Added 11 new actions and a new text substitution rule.\n- Fixed few bugs and edge cases.\n- Few colors adjusted.",
-    "RepoUrl": "https://github.com/Shiori-Zephyr/Uwu-Chat",
     "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v2.0.0.0/UwuChat.zip",
     "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v2.0.0.0/UwuChat.zip",
     "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/Uwu-Chat/releases/download/v2.0.0.0/UwuChat.zip",
@@ -29,5 +28,20 @@
     "ApplicableVersion": "any",
     "IconUrl": "",
     "Tags": ["other", "chat", "fun"]
+  },
+  {
+    "Author": "Shiori-Zephyr",
+    "Name": "FishSwap",
+    "Description": "Swaps between two fishing spots when fish get spooked.",
+    "Punchline": "Never stop fishing.",
+    "InternalName": "FishSwap",
+    "AssemblyVersion": "1.0.0.0",
+    "DownloadLinkInstall": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/FishSwap.zip",
+    "DownloadLinkUpdate": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/FishSwap.zip",
+    "DownloadLinkTesting": "https://github.com/Shiori-Zephyr/sashatheschool/releases/download/a/FishSwap.zip",
+    "DownloadCount": 0,
+    "ApplicableVersion": "any",
+    "IconUrl": "",
+    "Tags": ["fishing", "gathering"]
   }
 ]
